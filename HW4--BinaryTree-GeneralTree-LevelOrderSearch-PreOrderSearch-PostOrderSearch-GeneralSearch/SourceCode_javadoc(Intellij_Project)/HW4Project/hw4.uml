@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>hw4</OriginalElement>
+  <nodes>
+    <node x="248.1701388888889" y="364.0">hw4.BinaryTree.Node</node>
+    <node x="750.0127314814815" y="964.0">hw4.Part2Test</node>
+    <node x="773.5462962962963" y="364.0">hw4.MultiArgs</node>
+    <node x="39.596064814814895" y="599.0">hw4.Part1</node>
+    <node x="540.2291666666666" y="376.0">hw4.SearchTree</node>
+    <node x="425.59606481481484" y="588.0">hw4.Part2</node>
+    <node x="442.2083333333335" y="997.0">hw4.Main</node>
+    <node x="0.0" y="953.0">hw4.Part1Test</node>
+    <node x="228.1412037037037" y="0.0">hw4.BinaryTree</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="hw4.Main" target="hw4.Part2">
+      <point x="16.666666666666572" y="-48.5" />
+      <point x="558.875" y="933.0" />
+      <point x="553.4710648148148" y="933.0" />
+      <point x="-42.625" y="147.5" />
+    </edge>
+    <edge source="hw4.Part2" target="hw4.SearchTree">
+      <point x="28.41666666666663" y="-147.5" />
+      <point x="624.5127314814815" y="568.0" />
+      <point x="628.2291666666666" y="568.0" />
+      <point x="0.0" y="70.0" />
+    </edge>
+    <edge source="hw4.Main" target="hw4.Part1">
+      <point x="-50.00000000000006" y="-48.5" />
+      <point x="492.2083333333334" y="923.0" />
+      <point x="359.8460648148149" y="923.0" />
+      <point x="137.25" y="136.5" />
+    </edge>
+    <edge source="hw4.Part2" target="hw4.BinaryTree.Node">
+      <point x="-85.25" y="-147.5" />
+      <point x="510.84606481481484" y="548.0" />
+      <point x="383.7951388888889" y="548.0" />
+      <point x="58.125" y="82.0" />
+    </edge>
+    <edge source="hw4.Part2" target="hw4.MultiArgs">
+      <point x="142.08333333333337" y="-147.5" />
+      <point x="738.1793981481483" y="568.0" />
+      <point x="789.7129629629629" y="568.0" />
+      <point x="-80.83333333333334" y="82.0" />
+    </edge>
+    <edge source="hw4.Part1Test" target="hw4.Part1">
+      <point x="-60.749999999999886" y="-92.5" />
+      <point x="60.750000000000114" y="933.0" />
+      <point x="85.3460648148149" y="933.0" />
+      <point x="-137.25" y="136.5" />
+    </edge>
+    <edge source="hw4.Part1" target="hw4.BinaryTree.Node">
+      <point x="137.25" y="-136.5" />
+      <point x="359.8460648148149" y="568.0" />
+      <point x="306.2951388888889" y="568.0" />
+      <point x="-19.375" y="82.0" />
+    </edge>
+    <edge source="hw4.Part1" target="hw4.BinaryTree">
+      <point x="-137.25" y="-136.5" />
+      <point x="85.3460648148149" y="558.0" />
+      <point x="196.6585648148149" y="558.0" />
+      <point x="196.6585648148149" y="294.0" />
+      <point x="249.7037037037037" y="294.0" />
+      <point x="-150.9375" y="137.0" />
+    </edge>
+    <edge source="hw4.Part2" target="hw4.BinaryTree">
+      <point x="-28.416666666666686" y="-147.5" />
+      <point x="567.6793981481482" y="568.0" />
+      <point x="529.7291666666666" y="568.0" />
+      <point x="529.7291666666666" y="344.0" />
+      <point x="508.4537037037037" y="344.0" />
+      <point x="107.8125" y="137.0" />
+    </edge>
+    <edge source="hw4.BinaryTree" target="hw4.BinaryTree.Node">
+      <point x="-21.5625" y="137.0" />
+      <point x="379.0787037037037" y="324.0" />
+      <point x="306.2951388888889" y="324.0" />
+      <point x="-19.375" y="-82.0" />
+    </edge>
+    <edge source="hw4.Part2Test" target="hw4.Part2">
+      <point x="-94.0" y="-81.5" />
+      <point x="773.5127314814815" y="913.0" />
+      <point x="638.7210648148148" y="913.0" />
+      <point x="42.625" y="147.5" />
+    </edge>
+    <edge source="hw4.Part2Test" target="hw4.MultiArgs">
+      <point x="0.0" y="-81.5" />
+      <point x="867.5127314814815" y="548.0" />
+      <point x="886.7129629629629" y="548.0" />
+      <point x="16.16666666666663" y="82.0" />
+    </edge>
+    <edge source="hw4.BinaryTree.Node" target="hw4.BinaryTree">
+      <point x="-58.125" y="-82.0" />
+      <point x="267.5451388888889" y="314.0" />
+      <point x="335.9537037037037" y="314.0" />
+      <point x="-64.6875" y="137.0" />
+    </edge>
+    <edge source="hw4.Main" target="hw4.MultiArgs">
+      <point x="83.33333333333331" y="-48.5" />
+      <point x="625.5416666666667" y="933.0" />
+      <point x="843.7129629629629" y="933.0" />
+      <point x="843.7129629629629" y="568.0" />
+      <point x="854.3796296296296" y="568.0" />
+      <point x="-16.166666666666686" y="82.0" />
+    </edge>
+  </edges>
+  <settings layout="Hıerarchıc Group" zoom="1.0" x="184.0" y="240.5" />
+  <SelectedNodes>
+    <node>hw4.Part2Test</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
