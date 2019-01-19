@@ -1,6 +1,6 @@
 # CSE_222_Data_Stracture
 ## * HW1--Hotel_Management_System(JAVA) 
-### ---> HW => [HW1](../../tree/master/HW1--Hotel_Management_System(JAVA)/cse222-hw1.pdf)  Report => [Report1](../../tree/master/HW1--Hotel_Management_System(JAVA)/report.pdf)
+### ---> HW => [HW1](../master/HW1--Hotel_Management_System(JAVA)/cse222-hw1.pdf)  Report => [Report1](../master/HW1--Hotel_Management_System(JAVA)/report.pdf)
 ## * HW2--Hotel_Management_System(JAVA) 
 ### ---> Report => [Report2](../blob/master/LICENSE)
 ## * HW3--Hotel_Management_System(JAVA) 
