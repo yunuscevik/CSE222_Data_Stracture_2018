@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>HW3</OriginalElement>
+  <nodes>
+    <node x="-6243.499999999992" y="-2618.4999999999955">HW3.Part3</node>
+    <node x="-6214.999999999992" y="-2896.4999999999955">HW3.Part3_Abstract</node>
+    <node x="-5931.499999999992" y="-2849.4999999999955">HW3.Part2</node>
+    <node x="-5583.499999999992" y="-3143.499999999995">HW3.MainTest</node>
+    <node x="-5933.499999999992" y="-3072.4999999999955">HW3.Part1</node>
+    <node x="-5582.499999999992" y="-3071.499999999995">HW3.Part1Test</node>
+    <node x="-5929.499999999992" y="-3143.4999999999955">HW3.Main</node>
+    <node x="-5570.499999999992" y="-2746.4999999999955">HW3.Part3Test</node>
+    <node x="-5574.499999999992" y="-2921.4999999999955">HW3.Part2Test</node>
+    <node x="-6209.499999999992" y="-3152.4999999999955">HW3.Part3_Interface</node>
+    <node x="-5929.499999999992" y="-2194.4999999999955">HW3.ClassHasIndexAndObject</node>
+    <node x="-5931.499999999992" y="-2652.4999999999955">HW3.Course</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="HW3.Part3_Abstract" target="HW3.Part3_Interface">
+      <point x="0.0" y="-114.0" />
+      <point x="0.0" y="103.0" />
+    </edge>
+    <edge source="HW3.Part3" target="HW3.Part3_Abstract">
+      <point x="0.0" y="-313.0" />
+      <point x="0.0" y="114.0" />
+    </edge>
+  </edges>
+  <settings layout="Hıerarchıc Group" zoom="0.40000000000000013" x="-5006.857142857143" y="-2458.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
